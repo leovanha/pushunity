@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Viendan.cs" />
     <Compile Include="Assets\Scripts\json.cs" />
     <Compile Include="Assets\Scripts\loadscene.cs" />
+    <Compile Include="Assets\Scripts\OkeLa.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
